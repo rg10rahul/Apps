@@ -1,0 +1,34 @@
+.header {
+    display: flex;
+    flex-direction: column;
+}
+.col {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 12%;
+    color: whitesmoke;
+    display: flex;
+    font-weight: 600px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.col h2 {
+    margin-block-end: 0em;
+}
+.col h1 {
+    margin-block-end: 0em;
+    margin-block-start: 0em;
+}
+.button {
+    margin-top: 15px;
+    padding: 5px 10px;
+    background-color:#1674d4;
+    color:#fff;
+    border-radius: 15px;
+    font-size: 20px;
+    font-family:"Proxima Nova Condensed";
+    border-style: initial;
+    cursor : pointer;
+    font-weight: 600;
+}
